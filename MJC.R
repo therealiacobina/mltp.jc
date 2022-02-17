@@ -1,8 +1,4 @@
-# a Pop MC scheme for mixtures of two Gaussian distributions (24/02/2005)
-# Film of the PMC with four normal random walk proposals
-# nsimu: number of simulations
-# niter: maximum number of iterations
-# vari: variance of normal random walk proposal number i
+# a Population Monte Carlo scheme for mixtures of two Gaussian distributions
 # ---> Model:
 # xi ~ p*N(vmu1,sigma1)+(1-p)*N(vmu2,sigma2) with sigma1=1 and vmu1=0
 # prior:
